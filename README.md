@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem-vindo(a) ao meu perfil! 👋
 
-<!--
-**RDSilvah/RDSilvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodrigo.
 
-Here are some ideas to get you started:
+- Atualmente estou cursando o 3º ano do Ensino Médio.
+- Estou estudando na plataforma [Alura](https://www.alura.com.br)!
+- Aprendendo programação na linguagem JavaScript.
+- Utilizo esse espaço para organizar e compartilhar os meus projetos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Por enquanto é só isso. Divirtam-se!
+
+
+![](https://media1.tenor.com/m/Ltbtcl44bqEAAAAC/gojo-satoru-gojo.gif)
